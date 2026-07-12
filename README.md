@@ -1,4 +1,7 @@
 DeepPurge — Deep System Uninstaller & Residual Cleaner (Windows-focused)
+
+Capabilities:
+
 .NET 8 core library (DeepPurge.Core) + CLI (DeepPurge.CLI), with installer script.
 Key Capabilities (fully implemented per code/docs):
 Full filesystem + registry indexing (hidden files, ADS, reparse points).
